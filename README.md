@@ -44,5 +44,33 @@
 
 ![437068554-f9feadfc-55d8-45c3-b577-d271d20f2e5c](https://github.com/user-attachments/assets/543e17f8-d2c5-4907-9368-0492342887ac)
 
+# Pertemuan 5
 
+1. Buat Pagination di Codeigniter 4, untuk membuat pagination, buka Kembali Controller Artikel, kemudian modifikasi kode pada method admin_index seperti berikut.
+![437069644-8a847c0a-d825-4a72-8214-753d4f86cb47](https://github.com/user-attachments/assets/f3c938ad-d91d-491e-b0a8-c4573dccae08)
 
+2. Buka file views/artikel/admin_index.php dan tambahkan kode berikut dibawah deklarasi tabel data.
+![437070570-68b94114-b716-4fa9-beb7-70a5a792a152](https://github.com/user-attachments/assets/1f1f5c5c-853f-4cac-9568-85d5c18d334e)
+
+3. Buka Kembali daftar artikel dan lihat hasilnya
+
+![437070910-c757b864-0bef-4a7e-8c5c-026a0f8fdd03](https://github.com/user-attachments/assets/2915c1ea-6483-4c7c-9d84-7d42f4b8b2ab)
+
+4. Buat fitur pencarian data di Controller Artikel, pada method admin_index ubah kodenya seperti berikut
+![437071621-5a9941cb-660c-4e0e-b71f-a4c3d74ca30a](https://github.com/user-attachments/assets/b63614ab-e63c-4c9a-a906-c066a159eced)
+
+5. Buka kembali file views/artikel/admin_index.php dan tambahkan form pencarian sebelum deklarasi tabel seperti  berikut
+![437072330-f7c958da-ad7a-45b5-8a44-9dcbd2247e38](https://github.com/user-attachments/assets/0fa04309-c284-45ca-b7a6-c8f497554c10)
+
+6. Buka kembali halaman admin artikel
+![437074226-9d41ee1f-14c9-4abc-a5c6-e7b31dfaa412](https://github.com/user-attachments/assets/d9d93b7a-5b5b-4699-a460-8a8eac9ea9dd)
+
+# Pertemuan 6
+1. Buat Fitur memngunggah Gambar pada artuikel, Buka Controller Artikel dan buat program seperti ini
+![437074989-21bc13bb-ca15-401a-95cb-f36b98424940](https://github.com/user-attachments/assets/d4faef08-1a6c-46be-bfe8-f96b3ab16947)
+
+2. Pada file views/artikel/form_add.php tambahkan field input file seperti berikut
+![437075799-9354d4ed-f97f-4778-8510-ffb64d6b9422](https://github.com/user-attachments/assets/7527212e-ca1a-4f46-bda7-2ba512a35e80)
+![437076212-8ab19c09-fc41-4f4e-aa50-2de8d3d2fd66](https://github.com/user-attachments/assets/da2f48ac-58c4-4935-8143-46dcccc90094)
+
+![437078895-2e991a3d-2e26-44f8-8fbb-00ac9fc2ed22](https://github.com/user-attachments/assets/a1d7a368-46bf-496d-9ace-3e587dbe0fa1)
